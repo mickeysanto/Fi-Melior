@@ -9,4 +9,4 @@ will recognize. The game focuses on a real time combat gameplay loop, in a preco
 From the game mechanics, to art and controls, “Fi Melior” mixes the familiar gameplay of the
 RPG genre in a new and exciting world.
 
-![alt text](https://github.com/mickeysanto/Fi-Melior/blob/main/Fi screencap.png?raw=true)
+![alt text](https://github.com/mickeysanto/Fi-Melior/blob/main/Fi-screencap.png?raw=true)
