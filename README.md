@@ -8,3 +8,5 @@ of other popular RPGs (like Elden Ring and Skyrim), “Fi Melior” employs many
 will recognize. The game focuses on a real time combat gameplay loop, in a preconceived map.
 From the game mechanics, to art and controls, “Fi Melior” mixes the familiar gameplay of the
 RPG genre in a new and exciting world.
+
+![alt text](https://github.com/mickeysanto/Fi-Melior/blob/main/Fi screencap.png?raw=true)
